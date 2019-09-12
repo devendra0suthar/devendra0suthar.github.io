@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28918916-c40c-47ca-b2e6-6d29801881d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="487">
+              <caret line="105" column="110" selection-start-line="105" selection-start-column="110" selection-end-line="105" selection-end-column="110" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/majestic.php.html" />
+        <option value="$PROJECT_DIR$/maxwell-ui.php.html" />
+        <option value="D:/Javascript-Project/fun-with-html5-canvas/index.html" />
+        <option value="$PROJECT_DIR$/maxicosi.html" />
+        <option value="$PROJECT_DIR$/salt.php.html" />
+        <option value="$PROJECT_DIR$/allcells.php.html" />
+        <option value="$PROJECT_DIR$/maxwell-kardia.php.html" />
+        <option value="$PROJECT_DIR$/mayhem.php.html" />
+        <option value="D:/My web page/dev/elen/index.html" />
+        <option value="$PROJECT_DIR$/maxwell.php.html" />
+        <option value="$PROJECT_DIR$/dist/css/main.css" />
+        <option value="$PROJECT_DIR$/max-mkt.php.html" />
+        <option value="$PROJECT_DIR$/index.php.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1038" />
+    <option name="y" value="251" />
+    <option name="width" value="765" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="devendra0suthar.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="devendra0suthar.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="devendra0suthar.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="devendra0suthar.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="devendra0suthar.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="devendra0suthar.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="devendra0suthar.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="devendra0suthar.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28918916-c40c-47ca-b2e6-6d29801881d3" name="Default Changelist" comment="" />
+      <created>1561442659338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561442659338</updated>
+      <workItem from="1561442663883" duration="2061000" />
+      <workItem from="1561445742237" duration="1179000" />
+      <workItem from="1561447664759" duration="1752000" />
+      <workItem from="1561449781521" duration="2040000" />
+      <workItem from="1561477381299" duration="774000" />
+      <workItem from="1561510193193" duration="1772000" />
+      <workItem from="1561511991595" duration="2096000" />
+      <workItem from="1561514682960" duration="1783000" />
+      <workItem from="1561516488040" duration="1443000" />
+      <workItem from="1561518308018" duration="1833000" />
+      <workItem from="1561521398802" duration="579000" />
+      <workItem from="1561522093901" duration="1814000" />
+      <workItem from="1561523932106" duration="1821000" />
+      <workItem from="1561525929145" duration="1763000" />
+      <workItem from="1561527860647" duration="1784000" />
+      <workItem from="1561529670168" duration="1584000" />
+      <workItem from="1561531517183" duration="821000" />
+      <workItem from="1561534410263" duration="1251000" />
+      <workItem from="1561536235789" duration="1794000" />
+      <workItem from="1561538059134" duration="1782000" />
+      <workItem from="1561539876945" duration="2086000" />
+      <workItem from="1561544922797" duration="1792000" />
+      <workItem from="1561546737936" duration="1400000" />
+      <workItem from="1561548547328" duration="1830000" />
+      <workItem from="1561550399068" duration="850000" />
+      <workItem from="1561551287817" duration="599000" />
+      <workItem from="1561769715921" duration="1322000" />
+      <workItem from="1561864025136" duration="749000" />
+      <workItem from="1561869844727" duration="1922000" />
+      <workItem from="1561871788850" duration="958000" />
+      <workItem from="1561945508991" duration="108000" />
+      <workItem from="1562292993693" duration="1737000" />
+      <workItem from="1562298637606" duration="1184000" />
+      <workItem from="1562300624051" duration="1592000" />
+      <workItem from="1562554835989" duration="281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50136000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12961012" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2997">
+          <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxicosi.php.html" />
+    <entry file="file://D:/Flex-Panels-Image-Gallery/html.html" />
+    <entry file="file://D:/Javascript-Project/fun-with-html5-canvas/index.html" />
+    <entry file="file://D:/My web page/Neaty Free Website Template - Free-CSS.com/templatemo_501_neaty/index.html" />
+    <entry file="file://$PROJECT_DIR$/maxwell-ui.php.html" />
+    <entry file="file://$PROJECT_DIR$/tip.js" />
+    <entry file="file://$PROJECT_DIR$/tok.css" />
+    <entry file="file://$PROJECT_DIR$/../Flex-Panels-Image-Gallery/html.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="139" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jay.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bvc.html" />
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elen/about.html" />
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src,_js,_wow.min.js+dist,_js,_case.min.js.pagespeed.jc.ECI_NLnp_v.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/majestic.php.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="79" column="4" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxicosi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/salt.php.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="80" column="23" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/img/cosi/mc-1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/img/majestic/majestic-1.png" />
+    <entry file="file://$PROJECT_DIR$/dist/img/majestic/majestic-3.png" />
+    <entry file="file://$PROJECT_DIR$/dist/img/majestic/majestic-4.png" />
+    <entry file="file://$PROJECT_DIR$/dist/img/maxwell/mh-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/img/maxwell/mh-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/img/maxwell/mh-3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/img/maxwell/mh-5.png" />
+    <entry file="file://$PROJECT_DIR$/dist/img/mayhem/mayhem.jpg" />
+    <entry file="file://$PROJECT_DIR$/dist/img/mayhem/mayhem-1.png" />
+    <entry file="file://$PROJECT_DIR$/dist/js/case.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/jquery.fullpage.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/jquery.fullpage.min.js+main.min.js.pagespeed.jc.2dCt8LMTo5.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/jquery-3-alpha.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/main.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2227" />
+      </provider>
+    </entry>
+    <entry file="file://D:/My web page/dev/elen/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="225" column="22" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="225" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allcells.php.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="3873" selection-start-line="3873" selection-end-line="3873" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxwell.php.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="69" column="14" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mayhem.php.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="73" column="14" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maxwell-kardia.php.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="78" column="38" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/max-mkt.php.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="127" column="7" selection-start-line="127" selection-start-column="7" selection-end-line="127" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="107" column="63" selection-start-line="107" selection-start-column="63" selection-end-line="107" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="105" column="110" selection-start-line="105" selection-start-column="110" selection-end-line="105" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+Disallow: /
+
+Disallow: /eoy/
+Disallow: /staging/
+Disallow: /test/
+Disallow: /maxwell-kardia.php
+Disallow: /max-mkt.php
+
